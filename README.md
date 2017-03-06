@@ -1,0 +1,1 @@
+A tensorflow based sentiment classifier for ibm movie reviews, based on udacity course by Siraj Raval.
